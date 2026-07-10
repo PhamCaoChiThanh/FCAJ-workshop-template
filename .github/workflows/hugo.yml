@@ -1,0 +1,38 @@
+name: Deploy SmartDorm Internship Report to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - thanh
+      - tri
+      - dung
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout SmartDorm Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo Environment
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.134.3"
+          extended: true
+
+      - name: Build SmartDorm Hugo Site
+        run: hugo --minify
+        working-directory: ./FCAJ-workshop-template
+
+      - name: Deploy SmartDorm Report to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./FCAJ-workshop-template/public
+          publish_branch: thanh # Tên nhánh chứa trang web tĩnh đã biên dịch
+          force_orphan: true
