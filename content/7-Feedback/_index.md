@@ -19,4 +19,4 @@ The **FCJ Cloud Intern** program provided an exceptional hands-on learning exper
 *   Introduce deeper sessions on advanced cloud security topics (e.g., advanced IAM policies, Web Application Firewall - WAF configurations).
 
 ### 4. Peer Recommendation
-*   I will highly recommend this internship program to junior students at HCMUTE, as it is the perfect launchpad for anyone aspiring to build a career in Cloud Computing.
+*   I will highly recommend this internship program to junior students at Ho Chi Minh City University of Technology, as it is the perfect launchpad for anyone aspiring to build a career in Cloud Computing.
