@@ -1,11 +1,11 @@
 ---
-title: "Week 10: 28/06 - 05/07"
+title: "Week 10: 22/06 - 28/06"
 date: 2026-07-10
 weight: 10
 chapter: false
 ---
 
-## Week 10: Writing Terraform IaC & Deploying RDS PostgreSQL (28/06 - 05/07)
+## Week 10: Writing Terraform IaC & Deploying RDS PostgreSQL (22/06 - 28/06)
 
 ### Tasks Accomplished
 *   Wrote Terraform IaC configurations (`main.tf`) to automatically provision AWS VPC network components, Subnets, Internet Gateways, and Security Groups.

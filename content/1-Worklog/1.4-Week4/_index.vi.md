@@ -1,11 +1,11 @@
 ---
-title: "Tuần 4: 11/05 - 18/05"
+title: "Tuần 4: 11/05 - 17/05"
 date: 2026-07-10
 weight: 4
 chapter: false
 ---
 
-## Tuần 4: Thiết lập cấu trúc dự án Backend ASP.NET Core & kết nối PostgreSQL local (11/05 - 18/05)
+## Tuần 4: Thiết lập cấu trúc dự án Backend ASP.NET Core & kết nối PostgreSQL local (11/05 - 17/05)
 
 ### Công việc đã làm
 *   Khởi tạo dự án Web API sử dụng ASP.NET Core (.NET 10).

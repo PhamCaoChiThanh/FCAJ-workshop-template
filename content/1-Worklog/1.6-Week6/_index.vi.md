@@ -1,11 +1,11 @@
 ---
-title: "Tuần 6: 27/05 - 03/06"
+title: "Tuần 6: 25/05 - 31/05"
 date: 2026-07-10
 weight: 6
 chapter: false
 ---
 
-## Tuần 6: Xây dựng luồng phê duyệt đăng ký & tạo hợp đồng tự động (27/05 - 03/06)
+## Tuần 6: Xây dựng luồng phê duyệt đăng ký & tạo hợp đồng tự động (25/05 - 31/05)
 
 ### Công việc đã làm
 *   Xây dựng phân hệ duyệt hồ sơ sinh viên: Quản lý hoặc Admin có thể đổi trạng thái của yêu cầu thuê phòng từ `PENDING` thành `APPROVED` hoặc `REJECTED`.

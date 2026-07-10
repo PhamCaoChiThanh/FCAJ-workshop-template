@@ -1,11 +1,11 @@
 ---
-title: "Week 4: 11/05 - 18/05"
+title: "Week 4: 11/05 - 17/05"
 date: 2026-07-10
 weight: 4
 chapter: false
 ---
 
-## Week 4: Backend Architecture Setup (ASP.NET Core) & Local PostgreSQL Migration (11/05 - 18/05)
+## Week 4: Backend Architecture Setup (ASP.NET Core) & Local PostgreSQL Migration (11/05 - 17/05)
 
 ### Tasks Accomplished
 *   Initialized the backend project using ASP.NET Core Web API (.NET 10).

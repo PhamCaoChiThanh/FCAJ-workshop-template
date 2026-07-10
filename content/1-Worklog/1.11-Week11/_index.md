@@ -1,11 +1,11 @@
 ---
-title: "Week 11: 06/07 - 12/07"
+title: "Week 11: 29/06 - 05/07"
 date: 2026-07-10
 weight: 11
 chapter: false
 ---
 
-## Week 11: Packaging C# Backend & Serverless Deployment on AWS Lambda (06/07 - 12/07)
+## Week 11: Packaging C# Backend & Serverless Deployment on AWS Lambda (29/06 - 05/07)
 
 ### Tasks Accomplished
 *   Packaged the C# backend project into a bootstrap zip compatible with **AWS Lambda** serverless execution.

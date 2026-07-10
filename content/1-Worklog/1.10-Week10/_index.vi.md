@@ -1,11 +1,11 @@
 ---
-title: "Tuần 10: 28/06 - 05/07"
+title: "Tuần 10: 22/06 - 28/06"
 date: 2026-07-10
 weight: 10
 chapter: false
 ---
 
-## Tuần 10: Viết Terraform IaC & Triển khai RDS PostgreSQL (28/06 - 05/07)
+## Tuần 10: Viết Terraform IaC & Triển khai RDS PostgreSQL (22/06 - 28/06)
 
 ### Công việc đã làm
 *   Viết kịch bản Hạ tầng dưới dạng mã (Infrastructure as Code - IaC) sử dụng **Terraform** để định nghĩa tài nguyên AWS.

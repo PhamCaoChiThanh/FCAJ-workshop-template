@@ -1,11 +1,11 @@
 ---
-title: "Tuần 8: 12/06 - 19/06"
+title: "Tuần 8: 08/06 - 14/06"
 date: 2026-07-10
 weight: 8
 chapter: false
 ---
 
-## Tuần 8: Xây dựng API lưu trữ tệp cục bộ & dựng giao diện Next.js (12/06 - 19/06)
+## Tuần 8: Xây dựng API lưu trữ tệp cục bộ & dựng giao diện Next.js (08/06 - 14/06)
 
 ### Công việc đã làm
 *   Viết API cho phép tải ảnh đại diện của sinh viên và ảnh chứng minh nhân dân (CCCD) lên thư mục cục bộ của backend tại `wwwroot/uploads`.

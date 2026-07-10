@@ -1,11 +1,11 @@
 ---
-title: "Tuần 7: 04/06 - 11/06"
+title: "Tuần 7: 01/06 - 07/06"
 date: 2026-07-10
 weight: 7
 chapter: false
 ---
 
-## Tuần 7: Thuật toán tính chỉ số điện nước & lập hóa đơn hàng tháng (04/06 - 11/06)
+## Tuần 7: Thuật toán tính chỉ số điện nước & lập hóa đơn hàng tháng (01/06 - 07/06)
 
 ### Công việc đã làm
 *   Thiết kế bảng dữ liệu `UtilityUsages` lưu chỉ số điện (kWh) và nước (m3) tiêu thụ thực tế hàng tháng của từng phòng.

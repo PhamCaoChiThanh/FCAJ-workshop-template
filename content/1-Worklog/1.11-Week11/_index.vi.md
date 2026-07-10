@@ -1,11 +1,11 @@
 ---
-title: "Tuần 11: 06/07 - 12/07"
+title: "Tuần 11: 29/06 - 05/07"
 date: 2026-07-10
 weight: 11
 chapter: false
 ---
 
-## Tuần 11: Deploy Backend lên AWS Lambda Serverless & Giải quyết lỗi CORS (06/07 - 12/07)
+## Tuần 11: Deploy Backend lên AWS Lambda Serverless & Giải quyết lỗi CORS (29/06 - 05/07)
 
 ### Công việc đã làm
 *   Biên dịch và đóng gói Backend C# thành tệp bootstrap zip tương thích với môi trường Serverless của **AWS Lambda**.

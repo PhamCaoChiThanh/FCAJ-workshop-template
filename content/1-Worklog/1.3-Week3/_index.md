@@ -1,11 +1,11 @@
 ---
-title: "Week 3: 03/05 - 10/05"
+title: "Week 3: 04/05 - 10/05"
 date: 2026-07-10
 weight: 3
 chapter: false
 ---
 
-## Week 3: SmartDorm Kickoff & Relational Database Design (03/05 - 10/05)
+## Week 3: SmartDorm Kickoff & Relational Database Design (04/05 - 10/05)
 
 ### Tasks Accomplished
 *   Conducted project kickoff meeting to lock down the individual project idea: **SmartDorm** (Smart Dormitory Management System).

@@ -1,11 +1,11 @@
 ---
-title: "Tuần 3: 03/05 - 10/05"
+title: "Tuần 3: 04/05 - 10/05"
 date: 2026-07-10
 weight: 3
 chapter: false
 ---
 
-## Tuần 3: Khởi động dự án SmartDorm & Thiết kế cơ sở dữ liệu (03/05 - 10/05)
+## Tuần 3: Khởi động dự án SmartDorm & Thiết kế cơ sở dữ liệu (04/05 - 10/05)
 
 ### Công việc đã làm
 *   Thực hiện họp thống nhất ý tưởng dự án thực hành cá nhân: **SmartDorm** (Ứng dụng quản lý kí túc xá thông minh).

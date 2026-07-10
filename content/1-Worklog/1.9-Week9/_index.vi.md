@@ -1,11 +1,11 @@
 ---
-title: "Tuần 9: 20/06 - 27/06"
+title: "Tuần 9: 15/06 - 21/06"
 date: 2026-07-10
 weight: 9
 chapter: false
 ---
 
-## Tuần 9: Liên kết JWT Authentication & Kết nối Frontend - Backend (20/06 - 27/06)
+## Tuần 9: Liên kết JWT Authentication & Kết nối Frontend - Backend (15/06 - 21/06)
 
 ### Công việc đã làm
 *   Tích hợp bảo mật JWT (JSON Web Token) cho các API Backend cần phân quyền.

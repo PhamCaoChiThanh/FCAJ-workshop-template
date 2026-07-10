@@ -1,11 +1,11 @@
 ---
-title: "Week 5: 19/05 - 26/05"
+title: "Week 5: 18/05 - 24/05"
 date: 2026-07-10
 weight: 5
 chapter: false
 ---
 
-## Week 5: Room CRUD Management & Booking Application APIs (19/05 - 26/05)
+## Week 5: Room CRUD Management & Booking Application APIs (18/05 - 24/05)
 
 ### Tasks Accomplished
 *   Coded CRUD endpoints for managing dorm rooms (`/api/rooms`) letting admins add, edit, or delete rooms.

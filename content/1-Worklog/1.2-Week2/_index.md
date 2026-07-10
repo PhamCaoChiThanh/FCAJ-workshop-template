@@ -1,5 +1,5 @@
 ---
-title: "Week 2: 24/04 - 02/05"
+title: "Week 2: 27/04 - 03/05"
 date: 2026-07-10
 weight: 2
 chapter: false

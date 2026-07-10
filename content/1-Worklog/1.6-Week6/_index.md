@@ -1,11 +1,11 @@
 ---
-title: "Week 6: 27/05 - 03/06"
+title: "Week 6: 25/05 - 31/05"
 date: 2026-07-10
 weight: 6
 chapter: false
 ---
 
-## Week 6: Booking Approval Flow & Automated Contract Generation (27/05 - 03/06)
+## Week 6: Booking Approval Flow & Automated Contract Generation (25/05 - 31/05)
 
 ### Tasks Accomplished
 *   Developed application approval APIs for managers (transitioning status from PENDING to APPROVED or REJECTED).

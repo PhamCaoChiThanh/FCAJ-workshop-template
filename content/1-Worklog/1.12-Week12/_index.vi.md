@@ -1,11 +1,11 @@
 ---
-title: "Tuần 12: 13/07 - 19/07"
+title: "Tuần 12: 06/07 - 12/07"
 date: 2026-07-10
 weight: 12
 chapter: false
 ---
 
-## Tuần 12: Tích hợp Amazon S3 cho File Upload & Triển khai URL Masking Security (13/07 - 19/07)
+## Tuần 12: Tích hợp Amazon S3 cho File Upload & Triển khai URL Masking Security (06/07 - 12/07)
 
 ### Công việc đã làm
 *   Khắc phục lỗi ghi đĩa do AWS Lambda có hệ thống tệp chỉ đọc (Read-only filesystem) bằng cách tích hợp SDK Amazon S3 vào controller tải file để đẩy ảnh thẳng lên S3 Bucket công khai.

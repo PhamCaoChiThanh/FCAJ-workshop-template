@@ -1,11 +1,11 @@
 ---
-title: "Week 7: 04/06 - 11/06"
+title: "Week 7: 01/06 - 07/06"
 date: 2026-07-10
 weight: 7
 chapter: false
 ---
 
-## Week 7: Utility Tracking Indexes & Monthly Billing Calculations (04/06 - 11/06)
+## Week 7: Utility Tracking Indexes & Monthly Billing Calculations (01/06 - 07/06)
 
 ### Tasks Accomplished
 *   Designed the monthly utility index tracking schema (UtilityUsage).

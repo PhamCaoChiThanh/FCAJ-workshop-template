@@ -1,11 +1,11 @@
 ---
-title: "Week 9: 20/06 - 27/06"
+title: "Week 9: 15/06 - 21/06"
 date: 2026-07-10
 weight: 9
 chapter: false
 ---
 
-## Week 9: JWT Authorization & Frontend-Backend Integration (20/06 - 27/06)
+## Week 9: JWT Authorization & Frontend-Backend Integration (15/06 - 21/06)
 
 ### Tasks Accomplished
 *   Secured backend administration and profile endpoints using JWT Token authorization.
