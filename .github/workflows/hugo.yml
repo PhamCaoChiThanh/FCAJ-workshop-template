@@ -27,12 +27,11 @@ jobs:
 
       - name: Build SmartDorm Hugo Site
         run: hugo --minify
-        working-directory: ./FCAJ-workshop-template
 
       - name: Deploy SmartDorm Report to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./FCAJ-workshop-template/public
+          publish_dir: ./public
           publish_branch: thanh # Tên nhánh chứa trang web tĩnh đã biên dịch
           force_orphan: true
