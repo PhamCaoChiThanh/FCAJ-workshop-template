@@ -28,16 +28,10 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-globe'></i> SmartDorm Website"
-identifier = "SmartDorm"
-url = "https://smartdorm-orpin.vercel.app/"
-weight = 10
-
-[[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-project-diagram'></i> Group's Workshop Project"
 identifier = "Group Workshop Project"
 url = "https://smartdorm-orpin.vercel.app/"
-weight = 15
+weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
@@ -51,16 +45,10 @@ weight = 2
 languageName = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
-name = "<i class='fas fa-globe'></i> Website SmartDorm"
-identifier = "SmartDorm"
-url = "https://smartdorm-orpin.vercel.app/"
-weight = 10
-
-[[Languages.vi.menu.shortcuts]]
 name = "<i class='fas fa-project-diagram'></i> Đồ án workshop của nhóm"
 identifier = "Group Workshop Project"
 url = "https://smartdorm-orpin.vercel.app/"
-weight = 15
+weight = 10
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
