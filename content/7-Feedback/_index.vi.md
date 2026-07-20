@@ -6,43 +6,40 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-## Chia sẻ cảm nhận và Đóng góp ý kiến về chương trình thực tập
+## Chia sẻ cảm nhận & Đóng góp ý kiến thực tế từ thực tập sinh
 
-> "Chương trình thực tập FCJ Cloud Intern không chỉ là một kỳ thực tập thông thường, mà là hành trình bứt phá giới hạn, biến những dòng lý thuyết khô khan trên giảng đường thành các giải pháp hạ tầng serverless có khả năng vận hành thực tế trên đám mây AWS."
-
----
-
-### 1. Cảm nhận và Trải nghiệm thực tế (Program Reflections)
-
-Chương trình **FCJ Cloud Intern** đã mang lại cho tôi những giá trị vượt bậc và trải nghiệm thực tiễn vô cùng sâu sắc:
-
-*   **Thu hẹp khoảng cách lý thuyết - thực hành:** Lần đầu tiên tôi được tự tay thiết kế và cấu hình một hạ tầng hoàn chỉnh trên AWS. Từ việc viết code API với .NET 10 cho đến việc đóng gói triển khai lên AWS Lambda, quản trị cơ sở dữ liệu riêng tư trên Amazon RDS PostgreSQL, và tích hợp trí tuệ nhân tạo tạo sinh Amazon Bedrock để tự động hóa quy trình nghiệp vụ gửi email nhắc nợ.
-*   **Tư duy tối ưu hóa chi phí (FinOps):** Tôi đã hiểu sâu sắc tầm quan trọng của việc tối ưu hóa chi phí trong doanh nghiệp. Việc áp dụng mô hình Serverless giúp giảm thiểu chi phí vận hành cơ sở hạ tầng về mức xấp xỉ **0 USD/tháng** (trong hạn mức Free Tier) là bài học đắt giá về mặt kiến trúc phần mềm.
-*   **Trải nghiệm văn hóa làm việc chuyên nghiệp:** Học hỏi quy trình phát triển hạ tầng hiện đại bằng Terraform (Infrastructure as Code) và thiết lập pipeline tự động triển khai CI/CD qua GitHub Actions.
+> "Nếu phải dùng một từ để mô tả kỳ thực tập FCJ Cloud Intern thì đó chính là **'Thực chiến'**. Không có chuyện làm task vặt hay pha trà rót nước, ở đây tụi mình được tự tay thiết kế hạ tầng, trực tiếp 'vọc vạch' dịch vụ của AWS để tạo nên một sản phẩm thực tế chạy mượt mà."
 
 ---
 
-### 2. Mức độ hài lòng & Động lực phát triển (Satisfaction Rating)
+### 1. Cảm nhận chân thật sau kỳ thực tập
 
-*   **Đánh giá tổng quan:** `5/5 ⭐ - Xuất sắc vượt bậc`
-*   **Những điểm ấn tượng nhất:**
-    *   **Mentorship chất lượng cao:** Sự đồng hành, hướng dẫn tận tình và định hướng chuyên môn từ các chuyên gia, kỹ sư giải pháp (Solutions Architects) tại **AWS Vietnam** và các anh chị đi trước trong **FCJ Study Group**.
-    *   **Tự chủ và Thử thách:** Thực tập sinh được trao quyền tự chủ nghiên cứu, giải quyết các bài toán kỹ thuật thực tế thay vì chỉ làm các công việc hỗ trợ vụn vặt.
-    *   **Môi trường cởi mở:** Môi trường năng động, chia sẻ, khuyến khích sự đổi mới sáng tạo và không ngại thử nghiệm cái mới.
+Kỳ thực tập này đã giúp mình thay đổi hoàn toàn tư duy về lập trình và triển khai hệ thống:
 
----
-
-### 3. Những đóng góp cải tiến chương trình (Suggested Improvements)
-
-Để chương trình thực tập ngày càng hoàn thiện và mang lại giá trị cao hơn nữa cho thế hệ tiếp theo, tôi xin đề xuất một số điểm:
-
-1.  **Mở rộng nội dung về Bảo mật nâng cao (DevSecOps):** Tích hợp sâu hơn các chuyên đề về bảo mật hạ tầng như cấu hình AWS WAF để chống tấn công Web, xây dựng quy tắc IAM Policies tối thiểu hóa đặc quyền (Least Privilege), và bảo vệ các Function URL khỏi các truy cập trái phép.
-2.  **Hạ tầng đa tài khoản (Multi-account Architecture):** Hướng dẫn thực tập sinh thực hành quản lý hạ tầng quy mô doanh nghiệp bằng AWS Organizations và AWS Control Tower để chia tách môi trường Dev, Staging, và Production chuyên nghiệp hơn.
+*   **Học đi đôi với hành đúng nghĩa:** Trước đây trên giảng đường, mình chỉ nghe giảng lý thuyết về Cloud, AWS hay Serverless. Nhưng khi bắt tay vào dự án **SmartDorm**, mình mới thực sự hiểu thế nào là tự viết API bằng .NET 10, đóng gói deploy lên AWS Lambda, cấu hình mạng riêng tư bảo mật cho Amazon RDS, hay thậm chí là tích hợp trí tuệ nhân tạo Amazon Bedrock để tự động gửi email nhắc nợ. Mọi thứ đều cực kỳ thực tế!
+*   **Tư duy tối ưu hóa (FinOps):** Học được cách thiết kế hạ tầng làm sao cho thông minh nhất để chi phí vận hành hàng tháng về mức **xấp xỉ 0 USD** bằng cách tận dụng hạn mức Free Tier. Đây là bài học thực tế vô giá mà sách vở không bao giờ dạy.
+*   **Quen với quy trình chuyên nghiệp:** Lần đầu tiên mình biết cách viết code hạ tầng bằng Terraform (Infrastructure as Code) và thiết lập luồng CI/CD tự động deploy bằng GitHub Actions. Cảm giác push code phát hệ thống tự build rồi chạy luôn trên web cực kỳ phấn khích!
 
 ---
 
-### 4. Bệ phóng nghề nghiệp & Khuyến nghị (Peer Recommendation)
+### 2. Đánh giá độ hài lòng
 
-Đối với các bạn sinh viên khóa dưới tại **Đại học Công nghệ TP.HCM (HUTECH)** cũng như các trường đại học khác:
+*   **Mức độ hài lòng:** `5/5 ⭐ (Không có điểm gì để chê)`
+*   **Điều mình tâm đắc nhất:**
+    *   **Dàn Mentors siêu chất lượng:** Mấy anh kỹ sư giải pháp (Solutions Architects) tại **AWS Vietnam** và các anh chị đi trước ở **FCJ Study Group** cực kỳ thân thiện và hỗ trợ nhiệt tình. Có những đêm bí lỗi cấu hình mạng VPC hay IAM, mọi người vẫn sẵn sàng hỗ trợ giải đáp để mình gỡ lỗi bằng được.
+    *   **Môi trường cởi mở, khuyến khích sáng tạo:** Mình hoàn toàn được chủ động nghiên cứu và lựa chọn giải pháp kỹ thuật, giúp bản thân tự tin hơn rất nhiều khi đối mặt với các bài toán khó.
 
-> 💡 **Khuyên dùng tối đa:** Chương trình **FCJ Cloud Intern** chính là chiếc chìa khóa vàng và là bệ phóng hoàn hảo nhất để bạn bước chân vào ngành công nghiệp Điện toán đám mây đầy tiềm năng. Nếu bạn muốn trở thành một Cloud Engineer hay DevOps Engineer thực thụ ngay khi còn ngồi trên ghế nhà trường, đây là cơ hội mà bạn tuyệt đối không được bỏ qua!
+---
+
+### 3. Đóng góp ý kiến cho các khóa sau
+
+Để chương trình ngày càng "chất lượng" hơn nữa, mình hy vọng ban tổ chức có thể cải thiện thêm:
+
+1.  **Cho thực tập sinh 'ăn hành' nhiều hơn về bảo mật:** Mong chương trình mở rộng thêm các buổi hướng dẫn chuyên sâu hơn về DevSecOps, như cấu hình AWS WAF chặn tấn công mạng, hay viết IAM policy chuẩn chỉnh nhất để bảo mật API tối đa.
+2.  **Chia sẻ thêm về kiến trúc đa tài khoản (Multi-account):** Hướng dẫn cách setup và quản trị nhiều môi trường khác nhau (Dev, Staging, Product) thông qua AWS Organizations để sát với thực tế dự án doanh nghiệp lớn hơn nữa.
+
+---
+
+### 4. Lời khuyên dành cho các bạn khóa dưới tại HUTECH
+
+> 💡 **Nhắn gửi tới đàn em khóa dưới HUTECH:** Nếu bạn thực sự muốn theo đuổi mảng Cloud Computing hoặc DevOps/SysAdmin, chương trình **FCJ Cloud Intern** chính là chiếc chìa khóa vàng và bệ phóng hoàn hảo nhất. Đừng ngần ngại ứng tuyển, đây là cơ hội tuyệt vời để bạn 'lột xác' từ một sinh viên chỉ biết code chay thành một kỹ sư Cloud thực thụ có thể tự tin chiến đấu ở bất kỳ dự án thực tế nào!
