@@ -37,7 +37,7 @@ name = """<style>
 <details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
   <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
     <span><i class="fas fa-project-diagram"></i> Group's Workshop Project</span>
-    <i class="fas fa-caret-down caret-icon" style="font-size: 0.85em; color: #ccc; margin-right: 15px;"></i>
+    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 10px; height: 10px; fill: #ccc; transition: transform 0.2s; margin-right: 15px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
   <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
     <li style="margin-bottom: 8px;">
@@ -80,7 +80,7 @@ name = """<style>
 <details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
   <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
     <span><i class="fas fa-project-diagram"></i> Đồ án workshop của nhóm</span>
-    <i class="fas fa-caret-down caret-icon" style="font-size: 0.85em; color: #ccc; margin-right: 15px;"></i>
+    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 10px; height: 10px; fill: #ccc; transition: transform 0.2s; margin-right: 15px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
   <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
     <li style="margin-bottom: 8px;">
