@@ -62,3 +62,13 @@ export default function SecurityLayout({ children }: { children: React.ReactNode
     *   `Build Command`: `next build`
     *   `Output Directory`: `.next`
 *   Click **Deploy** to instantly launch the secure frontend.
+
+### 4. Demo Credentials
+You can use the following credentials to log in and test the system at [https://smartdorm-orpin.vercel.app/](https://smartdorm-orpin.vercel.app/):
+
+*   **Administrator Account (Admin):**
+    *   **Username (TK):** `chithanh_admin`
+    *   **Password (MK):** `ThanhPlus2026_Secure@Admin_!#`
+*   **User Account (User):**
+    *   **Username (TK):** `chithanh123`
+    *   **Password (MK):** `Chithanh123@`

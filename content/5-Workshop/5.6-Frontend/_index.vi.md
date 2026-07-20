@@ -64,3 +64,13 @@ export default function SecurityLayout({ children }: { children: React.ReactNode
     *   `Build Command`: `next build`
     *   `Output Directory`: `.next`
 *   Nhấp vào nút **Deploy** để hệ thống Vercel cấp phát URL https công khai miễn phí.
+
+### 4. Tài khoản thử nghiệm (Demo Credentials)
+Bạn có thể sử dụng các tài khoản sau để đăng nhập và thử nghiệm hệ thống tại [https://smartdorm-orpin.vercel.app/](https://smartdorm-orpin.vercel.app/):
+
+*   **Tài khoản Quản trị viên (Admin):**
+    *   **Tên đăng nhập (TK):** `chithanh_admin`
+    *   **Mật khẩu (MK):** `ThanhPlus2026_Secure@Admin_!#`
+*   **Tài khoản Người dùng (User):**
+    *   **Tên đăng nhập (TK):** `chithanh123`
+    *   **Mật khẩu (MK):** `Chithanh123@`
