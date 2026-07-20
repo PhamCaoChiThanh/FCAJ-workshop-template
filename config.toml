@@ -28,9 +28,16 @@ weight = 1
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
-name = """<details style="cursor: pointer; outline: none; margin-bottom: 5px;">
-  <summary style="display: list-item; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
-    <i class="fas fa-project-diagram"></i> Group's Workshop Project
+name = """<style>
+  .custom-shortcuts-details summary::-webkit-details-marker { display:none; }
+  .custom-shortcuts-details summary { list-style: none; }
+  .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
+  .caret-icon { transition: transform 0.2s; }
+</style>
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
+    <span><i class="fas fa-project-diagram"></i> Group's Workshop Project</span>
+    <i class="fas fa-caret-down caret-icon" style="font-size: 0.85em; color: #ccc; margin-right: 15px;"></i>
   </summary>
   <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
     <li style="margin-bottom: 8px;">
@@ -64,9 +71,16 @@ weight = 2
 languageName = "Tiếng Việt"
 
 [[Languages.vi.menu.shortcuts]]
-name = """<details style="cursor: pointer; outline: none; margin-bottom: 5px;">
-  <summary style="display: list-item; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
-    <i class="fas fa-project-diagram"></i> Đồ án workshop của nhóm
+name = """<style>
+  .custom-shortcuts-details summary::-webkit-details-marker { display:none; }
+  .custom-shortcuts-details summary { list-style: none; }
+  .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
+  .caret-icon { transition: transform 0.2s; }
+</style>
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
+    <span><i class="fas fa-project-diagram"></i> Đồ án workshop của nhóm</span>
+    <i class="fas fa-caret-down caret-icon" style="font-size: 0.85em; color: #ccc; margin-right: 15px;"></i>
   </summary>
   <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
     <li style="margin-bottom: 8px;">
