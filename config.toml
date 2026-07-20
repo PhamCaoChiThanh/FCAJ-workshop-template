@@ -34,6 +34,12 @@ url = "https://smartdorm-orpin.vercel.app/"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-project-diagram'></i> Group's Workshop Project"
+identifier = "Group Workshop Project"
+url = "https://smartdorm-orpin.vercel.app/"
+weight = 15
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj/"
@@ -49,6 +55,12 @@ name = "<i class='fas fa-globe'></i> Website SmartDorm"
 identifier = "SmartDorm"
 url = "https://smartdorm-orpin.vercel.app/"
 weight = 10
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fas fa-project-diagram'></i> Đồ án workshop của nhóm"
+identifier = "Group Workshop Project"
+url = "https://smartdorm-orpin.vercel.app/"
+weight = 15
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
