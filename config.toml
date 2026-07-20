@@ -34,8 +34,8 @@ name = """<style>
   .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
   .caret-icon { transition: transform 0.2s; }
 </style>
-<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; width: 100%;">
-  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 15px; box-sizing: border-box; width: 100%;">
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; padding: 0; width: 100%;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 1rem !important; box-sizing: border-box; width: 100%;">
     <span><i class="fas fa-project-diagram"></i> Group's Workshop Project</span>
     <svg class="caret-icon" viewBox="0 0 255 255" style="width: 8px; height: 8px; fill: #ccc; transition: transform 0.2s; margin-right: 5px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
@@ -77,8 +77,8 @@ name = """<style>
   .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
   .caret-icon { transition: transform 0.2s; }
 </style>
-<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; width: 100%;">
-  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 15px; box-sizing: border-box; width: 100%;">
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; padding: 0; width: 100%;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 1rem !important; box-sizing: border-box; width: 100%;">
     <span><i class="fas fa-project-diagram"></i> Đồ án workshop của nhóm</span>
     <svg class="caret-icon" viewBox="0 0 255 255" style="width: 8px; height: 8px; fill: #ccc; transition: transform 0.2s; margin-right: 5px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
