@@ -10,12 +10,15 @@ pre: " <b> 5. </b> "
 
 Chào mừng các bạn sinh viên đến với bài thực hành lớn (Workshop Lab) của dự án **SmartDorm**. 
 
-Trong bài Lab này, chúng ta sẽ đi qua toàn bộ các bước thiết kế CSDL PostgreSQL, viết mã nguồn cơ sở hạ tầng đám mây dạng Terraform (IaC), lập trình C# ASP.NET Core API Backend chạy Serverless trên AWS Lambda, tích hợp Amazon S3 để upload file và liên kết giao diện Next.js bảo mật bằng giải pháp che giấu URL (URL Masking) triển khai trên Vercel.
+Trong bài Lab này, chúng ta sẽ đi qua toàn bộ các bước từ thiết kế CSDL, khởi tạo tài nguyên hạ tầng tự động bằng Terraform, cấu hình code nghiệp vụ và triển khai ứng dụng dạng Serverless lên nền tảng AWS.
 
-*   [5.1 Tổng quan dự án & Sơ đồ kiến trúc](5.1-Workshop-overview/)
-*   [5.2 Yêu cầu chuẩn bị công cụ](5.2-Prerequisite/)
-*   [5.3 Thiết kế Database & cấu hình EF Core](5.3-Database/)
-*   [5.4 Tự động hóa hạ tầng bằng Terraform IaC](5.4-Terraform/)
-*   [5.5 Biên dịch & Deploy C# Backend lên AWS Lambda](5.5-Backend/)
-*   [5.6 Cấu hình giao diện Next.js & Bảo mật URL Masking](5.6-Frontend/)
-*   [5.7 Dọn dẹp tài nguyên để tránh phát sinh chi phí](5.7-Cleanup/)
+Nội dung chi tiết của bài thực hành được chia thành các phần sau:
+
+*   **[5.1 Tổng quan dự án & Sơ đồ kiến trúc](5.1-Workshop-overview/)**
+*   **[5.2 Yêu cầu chuẩn bị](5.2-Prerequiste/)**
+*   **[5.3 Khởi tạo Terraform](5.3-Terraform/)**
+*   **[5.4 Thiết kế Database](5.4-Database/)**
+*   **[5.5 Deploy Backend](5.5-Lambda/)**
+*   **[5.6 Cấu hình S3](5.6-S3/)**
+*   **[5.7 Frontend & URL Masking](5.7-Frontend/)**
+*   **[5.8 Dọn dẹp hạ tầng](5.8-Cleanup/)**
