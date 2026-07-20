@@ -34,14 +34,14 @@ name = """<style>
   .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
   .caret-icon { transition: transform 0.2s; }
 </style>
-<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
-  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; width: 100%;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 15px; box-sizing: border-box; width: 100%;">
     <span><i class="fas fa-project-diagram"></i> Group's Workshop Project</span>
-    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 10px; height: 10px; fill: #ccc; transition: transform 0.2s; margin-right: 15px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
+    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 8px; height: 8px; fill: #ccc; transition: transform 0.2s; margin-right: 5px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
-  <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
+  <ul style="padding-left: 35px; margin: 5px 0; list-style: none;">
     <li style="margin-bottom: 8px;">
-      <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0;">👉 Visit Website</a>
+      <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">👉 Visit Website</a>
     </li>
     <li style="margin-bottom: 8px; color: #ccc; font-size: 0.85em; line-height: 1.4;">
       <strong style="color: #fff;">🔑 Admin Account:</strong><br/>
@@ -77,14 +77,14 @@ name = """<style>
   .custom-shortcuts-details[open] .caret-icon { transform: rotate(180deg); }
   .caret-icon { transition: transform 0.2s; }
 </style>
-<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin-bottom: 5px;">
-  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 5px 0px;">
+<details class="custom-shortcuts-details" style="cursor: pointer; outline: none; margin: 0; width: 100%;">
+  <summary style="display: flex; align-items: center; justify-content: space-between; outline: none; color: #fff; font-weight: bold; padding: 6px 15px; box-sizing: border-box; width: 100%;">
     <span><i class="fas fa-project-diagram"></i> Đồ án workshop của nhóm</span>
-    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 10px; height: 10px; fill: #ccc; transition: transform 0.2s; margin-right: 15px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
+    <svg class="caret-icon" viewBox="0 0 255 255" style="width: 8px; height: 8px; fill: #ccc; transition: transform 0.2s; margin-right: 5px;"><polygon points="0,63.75 127.5,191.25 255,63.75"/></svg>
   </summary>
-  <ul style="padding-left: 20px; margin-top: 5px; list-style: none;">
+  <ul style="padding-left: 35px; margin: 5px 0; list-style: none;">
     <li style="margin-bottom: 8px;">
-      <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0;">👉 Đi tới Website</a>
+      <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">👉 Đi tới Website</a>
     </li>
     <li style="margin-bottom: 8px; color: #ccc; font-size: 0.85em; line-height: 1.4;">
       <strong style="color: #fff;">🔑 Tài khoản Admin:</strong><br/>
