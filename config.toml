@@ -43,6 +43,9 @@ name = """<style>
     <li style="margin-bottom: 8px;">
       <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">👉 Visit Website</a>
     </li>
+    <li style="margin-bottom: 8px;">
+      <a href="https://drive.google.com/file/d/1s8oZHd6jNctYT540rEDxtHUzcmDhf8be/view?usp=sharing" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">🎬 Visit Video</a>
+    </li>
     <li style="margin-bottom: 8px; color: #ccc; font-size: 0.85em; line-height: 1.4;">
       <strong style="color: #fff;">🔑 Admin Account:</strong><br/>
       TK: <code style="background: rgba(255,255,255,0.15); padding: 1px 3px; border-radius: 3px; color: #fff; font-family: monospace;">chithanh_admin</code><br/>
@@ -85,6 +88,9 @@ name = """<style>
   <ul style="padding-left: 35px; margin: 5px 0; list-style: none;">
     <li style="margin-bottom: 8px;">
       <a href="https://smartdorm-orpin.vercel.app/" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">👉 Đi tới Website</a>
+    </li>
+    <li style="margin-bottom: 8px;">
+      <a href="https://drive.google.com/file/d/1s8oZHd6jNctYT540rEDxtHUzcmDhf8be/view?usp=sharing" target="_blank" style="color: #00b0ff; text-decoration: underline; padding: 0; font-size: 0.9em;">🎬 Xem Video Demo</a>
     </li>
     <li style="margin-bottom: 8px; color: #ccc; font-size: 0.85em; line-height: 1.4;">
       <strong style="color: #fff;">🔑 Tài khoản Admin:</strong><br/>
